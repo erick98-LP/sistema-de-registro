@@ -3,4 +3,4 @@
 - Estado del proyecto en construcción.
 - Para ejecutar eln sistema, debes poener:
 
-npm install react
+''' npm install react '''
