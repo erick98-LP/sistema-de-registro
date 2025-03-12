@@ -4,3 +4,5 @@
 - Para ejecutar eln sistema, debes poener:
 
 ''' npm install react '''
+
+sistema de registro 2
